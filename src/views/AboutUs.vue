@@ -34,6 +34,48 @@
         </div>
       </div>
     </section>
+
+    <section class="py-5">
+      <div class="container">
+        <div role="grid">
+          <div class="row align-items-lg-center" role="row">
+            <div class="col-lg-6" role="gridcell">
+              <img class="w-100" src="/images/contract-project.jpg" alt="Contract Project" />
+            </div>
+
+            <div class="col-lg-6" role="gridcell">
+              <h2>Contract Project</h2>
+              <p class="mt-2 small text-secondary text-uppercase">It's a project wherein:</p>
+              <ul class="mt-4 vstack gap-2 text-secondary">
+                <li>
+                  <p>We offer wholesale pricing.</p>
+                </li>
+
+                <li>
+                  <p>We bid & provide wholesale quotations for hotels, hospitals, private houses, condominium units, yachts, theaters, etc. under budget or packaged price set up.</p>
+                </li>
+
+                <li>
+                  <p>We source out from worldwide suppliers of curtain fabrics or products of your needs.</p>
+                </li>
+
+                <li>
+                  <p>We provide strike off materials of your needs according to your budget.</p>
+                </li>
+
+                <li>
+                  <p>We help interior decor your home or establishment & assist you in coordinating fabrics to your choice of liking.</p>
+                </li>
+
+                <li>
+                  <p>We provide product presentation.</p>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
   </main>
 </template>
 
