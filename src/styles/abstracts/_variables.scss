@@ -2,6 +2,8 @@
 
 $primary: #e2b501;
 
+$enable-cssgrid: true;
+
 $paragraph-margin-bottom: 0;
 
 $headings-margin-bottom: 0;
@@ -11,6 +13,9 @@ $headings-line-height: 1;
 $display-font-weight: 700;
 
 $container-padding-x: 2rem;
+
+$input-btn-padding-y: 0.75rem;
+$input-btn-padding-x: 1rem;
 
 $utilities: ();
 $utilities: map.merge(
