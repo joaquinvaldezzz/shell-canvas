@@ -1,0 +1,48 @@
+.banner {
+  position: relative;
+  background-image: url('/images/andrew-neel-DLD5LvnFblU-unsplash.jpg');
+  background-position: center center;
+  background-size: cover;
+
+  @media (min-width: 640px) {
+    .row {
+      align-items: center;
+      min-height: 75vh;
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .row {
+      min-height: auto;
+      padding-top: 8rem;
+      padding-bottom: 8rem;
+    }
+  }
+
+  @media (min-width: 1200px) {
+    .row {
+      padding-top: 12rem;
+      padding-bottom: 12rem;
+      color: #000;
+    }
+  }
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0 0 0 / 30%);
+
+  @media (min-width: 1200px) {
+    background-color: rgba(0 0 0 / 10%);
+  }
+
+  ~ * {
+    position: relative;
+  }
+}

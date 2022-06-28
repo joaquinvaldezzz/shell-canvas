@@ -1,0 +1,44 @@
+@use 'sass:map';
+
+$primary: #e2b501;
+
+$paragraph-margin-bottom: 0;
+
+$headings-margin-bottom: 0;
+$headings-font-weight: 700;
+$headings-line-height: 1;
+
+$display-font-weight: 700;
+
+$container-padding-x: 2rem;
+
+$utilities: ();
+$utilities: map.merge(
+  (
+    'width': (
+      property: width,
+      class: w,
+      values: (
+        25: 25%,
+        50: 50%,
+        75: 75%,
+        100: 100%,
+        auto: auto,
+      ),
+      responsive: true,
+    ),
+    'height': (
+      property: height,
+      class: h,
+      values: (
+        25: 25%,
+        50: 50%,
+        75: 75%,
+        100: 100%,
+        auto: auto,
+      ),
+      responsive: true,
+    ),
+  ),
+  $utilities
+);
