@@ -12,5 +12,6 @@ module.exports = {
       variables: true,
     },
     'postcss-sort-media-queries': {},
+    tailwindcss: {},
   },
 }
