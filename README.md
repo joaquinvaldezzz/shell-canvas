@@ -1,6 +1,6 @@
 # Shell Canvas Demo
 
-This demo website of Shell Canvas uses Vite, Vue.js, and Boostrap.
+This demo website of Shell Canvas uses [Vite](https://vitejs.dev), [Vue.js](https://vuejs.org), and [Boostrap](https://getbootstrap.com).
 
 ## Run Locally
 
