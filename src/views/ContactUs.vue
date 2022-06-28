@@ -11,7 +11,7 @@
               <div class="mt-1 text-secondary fs-5">Main Branch: Buendia Gil Puyat Pasay</div>
               <div class="mt-4">
                 <label class="small fw-bold text-secondary text-uppercase" for="store">Store</label>
-                <address id="store">1999 Sen. Gil Puyat Avenue, (Buendia Avenue) Pasay City, Philippines 1300</address>
+                <div id="store">1999 Sen. Gil Puyat Avenue, (Buendia Avenue) Pasay City, Philippines 1300</div>
               </div>
 
               <div class="mt-4">
@@ -72,6 +72,68 @@
                   <textarea class="form-control" type="text" placeholder="Write your message here" rows="8"></textarea>
                 </div>
               </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="py-5">
+      <div class="container">
+        <div role="grid">
+          <div class="grid" role="row">
+            <div class="g-col-12 g-col-lg-4" role="gridcell">
+              <h3>Glorietta Branch</h3>
+              <div class="tw-mt-2 tw-text-sm tw-text-gray-500 lg:tw-mt-8">205 North Michigan Avenue, Suite 810, Chicago, 60601, USA</div>
+              <div class="tw-mt-1 tw-text-sm tw-text-gray-500 lg:tw-mt-2">
+                <label for="glorietta-branch-landline">Phone:&nbsp;</label>
+                <span id="glorietta-branch-landline">(632) 8845-0129 / 7622-0407 / 8844-8304</span>
+              </div>
+
+              <div class="tw-mt-1 tw-text-sm tw-text-gray-500 lg:tw-mt-2">
+                <label for="glorietta-branch-email">Email:&nbsp;</label>
+                <span id="glorietta-branch-email">office@email.com</span>
+              </div>
+
+              <div class="tw-mt-4 lg:tw-mt-8">
+                <a class="btn btn-light text-primary shadow-sm" href="#">View map</a>
+              </div>
+            </div>
+
+            <div class="g-col-12 g-col-lg-4" role="gridcell">
+              <h3>Libis Branch</h3>
+              <div class="tw-mt-2 tw-text-sm tw-text-gray-500 lg:tw-mt-8">205 North Michigan Avenue, Suite 810, Chicago, 60601, USA</div>
+              <div class="tw-mt-1 tw-text-sm tw-text-gray-500 lg:tw-mt-2">
+                <label for="glorietta-branch-landline">Phone:&nbsp;</label>
+                <span id="glorietta-branch-landline">(632) 8845-0129 / 7622-0407 / 8844-8304</span>
+              </div>
+
+              <div class="tw-mt-1 tw-text-sm tw-text-gray-500 lg:tw-mt-2">
+                <label for="glorietta-branch-email">Email:&nbsp;</label>
+                <span id="glorietta-branch-email">office@email.com</span>
+              </div>
+
+              <div class="tw-mt-4 lg:tw-mt-8">
+                <a class="btn btn-light text-primary shadow-sm" href="#">View map</a>
+              </div>
+            </div>
+
+            <div class="g-col-12 g-col-lg-4" role="gridcell">
+              <h3>Shangri-la Branch</h3>
+              <div class="tw-mt-2 tw-text-sm tw-text-gray-500 lg:tw-mt-8">205 North Michigan Avenue, Suite 810, Chicago, 60601, USA</div>
+              <div class="tw-mt-1 tw-text-sm tw-text-gray-500 lg:tw-mt-2">
+                <label for="glorietta-branch-landline">Phone:&nbsp;</label>
+                <span id="glorietta-branch-landline">(632) 8845-0129 / 7622-0407 / 8844-8304</span>
+              </div>
+
+              <div class="tw-mt-1 tw-text-sm tw-text-gray-500 lg:tw-mt-2">
+                <label for="glorietta-branch-email">Email:&nbsp;</label>
+                <span id="glorietta-branch-email">office@email.com</span>
+              </div>
+
+              <div class="tw-mt-4 lg:tw-mt-8">
+                <a class="btn btn-light text-primary shadow-sm" href="#">View map</a>
+              </div>
             </div>
           </div>
         </div>
