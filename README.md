@@ -1,7 +1,29 @@
-# Vue 3 + Vite
+# Shell Canvas Demo
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This demo website of Shell Canvas uses Vite, Vue.js, and Boostrap.
 
-## Recommended IDE Setup
+## Run Locally
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+1. Download or clone the project
+
+   ```sh
+   git clone https://github.com/joaquinvaldezzz/shell-canvas.git
+   ```
+
+2. Go to the project directory
+
+   ```sh
+   cd shell-canvas
+   ```
+
+3. Install dependencies
+
+   ```sh
+   yarn install
+   ```
+
+4. Start the local server
+
+   ```sh
+   yarn dev
+   ```
