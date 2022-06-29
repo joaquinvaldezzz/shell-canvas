@@ -1,10 +1,10 @@
 <template>
   <main>
-    <section class="py-5">
+    <section class="tw-py-8 sm:tw-py-12 md:tw-py-16">
       <div class="container">
         <h1 class="text-center">Contact</h1>
-        <div class="ratio ratio-16x9 mt-4 bg-light"></div>
-        <div class="mt-5" role="grid">
+        <div class="mt-4 bg-light tw-aspect-video tw-rounded-lg lg:tw-mx-auto lg:tw-max-w-2xl xl:tw-max-w-4xl"></div>
+        <div class="tw-mt-12 lg:tw-mt-16 xl:tw-mt-24" role="grid">
           <div class="grid gap-4" role="row">
             <div class="g-col-12 g-col-lg-4" role="gridcell">
               <h2 class="h2">Contact Info</h2>
@@ -71,6 +71,10 @@
                 <div>
                   <textarea class="form-control" type="text" placeholder="Write your message here" rows="8"></textarea>
                 </div>
+
+                <div>
+                  <button class="btn btn-primary text-white tw-w-full lg:tw-w-auto">Send message</button>
+                </div>
               </form>
             </div>
           </div>
@@ -78,7 +82,7 @@
       </div>
     </section>
 
-    <section class="py-5">
+    <section class="tw-py-12 lg:tw-py-16 xl:tw-py-24">
       <div class="container">
         <div role="grid">
           <div class="grid" role="row">
